@@ -1,0 +1,12 @@
+[INFO] Starting MD5 cracking...
+[INFO] Target MD5: 6a85dfd77d9cb35770c9dc6728d73d3f
+[INFO] Wordlist opened successfully.
+[TRY] Attempt 1
+[TRY] Attempt 2
+[TRY] Attempt 3
+[TRY] .....
+[SUCCESS] Password found at attempt 337
+[SUCCESS] Password is: Google101
+[INFO] Total attempts: 337
+[INFO] Execution time: 1.1248ms
+[INFO] Cracking process finished.
