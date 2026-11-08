@@ -8,5 +8,5 @@
 [SUCCESS] Password found at attempt 337
 [SUCCESS] Password is: Google101
 [INFO] Total attempts: 337
-[INFO] Execution time: 1.1248ms
+[INFO] Execution time: 547.8µs
 [INFO] Cracking process finished.
