@@ -1,0 +1,12 @@
+[INFO] Starting SHA1 cracking...
+[INFO] Target SHA1: aa1c7d931cf140bb35a5a16adeb83a551649c3b9
+[INFO] Wordlist opened successfully.
+[TRY] Attempt 1
+[TRY] Attempt 2
+[TRY] Attempt 3
+[TRY] .....
+[SUCCESS] Password found at attempt 593
+[SUCCESS] Password is: Princess1
+[INFO] Total attempts: 593
+[INFO] Execution time: 3.4279ms
+[INFO] Cracking process finished.
